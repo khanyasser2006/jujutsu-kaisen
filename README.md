@@ -1,6 +1,4 @@
-
-
-## 🎥 # 💀 Jujutsu Kaisen Site
+ # 💀 Jujutsu Kaisen Site
 
 A cinematic, scroll-driven fan tribute to *Jujutsu Kaisen* — exploring the sorcerers of Tokyo Jujutsu High through a parallax hero, a filterable arc index, an interactive character archive, and a deep dive into the cursed world's rules and terminology, all wrapped in a high-contrast crimson-and-cyan dark theme.
 
