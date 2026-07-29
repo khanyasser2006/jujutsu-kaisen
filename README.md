@@ -250,11 +250,10 @@ http://localhost:3000
 
 ## 🎥 Video
 
-*Add a screen recording or screenshots of the hero, character archive, and lore page here.*
-
----
 
 
-*Add a screen recording or screenshots of the hero, character archive, and lore page here.*
+https://github.com/user-attachments/assets/002ba036-90e2-4a0e-a21b-7c83ace19e07
+
+
 
 ---
